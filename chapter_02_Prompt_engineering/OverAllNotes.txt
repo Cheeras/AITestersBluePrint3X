@@ -1,0 +1,1065 @@
+3x AI Tester Blueprint |
+Agenda
+LLL -> Life Long LEANER
+Action Plan for the 12+ Weeks
+How to access the courses ? (Recordings)
+How to Ask the Doubts, Get the Task and Discuss my problem?
+Sequence to follow.
+Required Access SDETCLUBL.com
+No Knowledge for Playwright / Selenium is required for this.
+Laptop Configuration
+Personal  - (8-16) GB RAM, 256 GB SSD/HDD - Yes
+Office Laptop Issues Configuration
+Local LLM Setup
+Cloud AI - Groq Setup
+IDE Setup
+VS Code with github co pilot
+Antigravity
+Github Account Setup
+LangFlow & n8n Setup
+﻿
+Tuesday Evening 8 PM IST - Extra class - Topic -> Master Claude Code($ 20 plan) / Alterante(other)
+﻿
+
+Roadmap - Action Plan for the 12+ Weeks
+
+﻿
+
+﻿
+image.png
+﻿
+﻿www.figma.com/board/0aAIi9aiWQDQJQ0rnTdkx0/Learn-Generative-AI---AI-Agents-for--Software-Testers?node-id=22-46&t=vnGZCA4abRpwPVXh-1 
+
+﻿
+﻿3x AI Tester Blueprint | 
+﻿3x AI Tester Blueprint | 
+﻿3x AI Tester Blueprint | 
+
+Task # 1 -
+Create an Account - 
+﻿app.thetestingacademy.com/ 
+(with Google Option)
+﻿
+
+What is the app.thetingacademy.com?
+
+Curriculum, Roadmap, AI Agent list, AI Testing Tools List, LIVE Test
+My progress. 
+﻿
+How to access the courses ? (Recordings)
+Make sure that the you have a reset password - 
+﻿
+﻿courses.thetestingacademy.com/password/reset 
+
+Access the all the courses here - 
+﻿courses.thetestingacademy.com/mycourses 
+Bonus will be also available here in the 
+﻿course.thetestingacademy.com 
+﻿
+
+﻿
+How to Ask the Doubts, Get the Task and Discuss my problem?
+This is your Private - 
+﻿www.sdetclub.com/c/ai-tester-3x-only/ 
+Doubts 24x7 
+Task - M, W, F at 9 am IST ( Task will given)
+LIVE Test -  W at 9 am IST ( LIVE Test) Which you can give. - M ( Give the TEST -> EOD)
+Email ID - 
+﻿contact@thetestingacademy.com  
+﻿
+
+SDET Club Private 
+
+Doubt
+Task 
+LIVE Test
+LIVE class Timing and Task
+Live Class Time and Dates-
+Date :  - 11.00 am to 1 PM IST (S/Sun)
+
+Task -> M-F(Task, -> Test, Research, QA workflow, Too, AI Agent)
+
+Extra Session - Tue / Friday(Bi weekly ) - 8 PM IST - Email/WhatsApp  (Optional)
+
+LIVE Test- W LIVE  ( 9 am ist) - Announcement - SDETClub / WhatsApp Community. 
+
+﻿
+How to see the recording 
+﻿
+﻿https://www.loom.com/share/f52b39bc9095470ea0902075fe169e26?sid=564ed0c2-74ee-45c8-9acb-a6477b9669eb 
+
+﻿
+﻿courses.thetestingacademy.com/ 
+Today's AI Tester Blueprint 3x
+﻿
+ Sequence to follow
+LLM Basics
+Prompt Eng
+Generative AI
+AI Agents (RAG)
+Vibe Code
+n8n
+Langflow
+Crew AI /LangChain(Python Basics)
+RAG 
+10 + TYPES 
+Langlfow
+n8n
+Vibe Code
+MCP
+Use
+Create Own MCP
+LLM Eval
+DeepEval
+PromptFoo
+AI Testing tools
+3-4 AI Testing
+Projects - 
+30+ AI Projects( AI Agents, MCP, RAG, LLM EvaL)+. AI Testing Tool).
+﻿
+
+﻿
+Required Access 
+﻿
+﻿https://forms.gle/L47EKJns4ZPobLUH6  
+
+﻿
+﻿SDETclub.com 
+& 
+
+Bonus
+✅ SDET Masterclass  | Friday Master Class
+✅ Gen AI Course
+✅ n8n Basic → Advanced
+✅ SDET Club (Doubts & Assignments)
+✅ Job Assistance (QaJobBoard)
+﻿
+
+﻿
+﻿
+image.png
+﻿
+Rules of Life 
+100% Focus on One Thing -> AI Ready Tester -> All of the 100% efforts.
+5% (Execution) and 95% (Plan) -> 5% Plan -> 95% -> Try and Fail -> Try Again ->Success.
+50-70% is Perfect -> 100% is Failure - 25K + companies  
+40-70% Ready -> Interviews
+Unlimited Oppor. -> Delhi, NCR, Bangalore, Chennai, Pune, -> 25K companies.
+﻿
+New Actions -> Whatever worked in past, will not work in future. New Skills - G
+﻿
+Discipline
+Consistnecy
+Focus
+Practice
+4+ Week Permonth 
+﻿
+
+﻿
+Financial Knowledge
+
+Emergency Fund -> monthly - 50k  x  6 months ->  3L ( FD, Bank) - Save Job Security.
+20K per Month -> 1.2 L in your ACC, don't touch it, until emergency 
+2.Health Insurance
+
+3.Term Insurance
+
+4.SIP - MF - Investing (5-10%) per month, - without -> index Nifty 
+
+﻿
+
+﻿
+image.png
+﻿
+Task #2 
+
+Github Account Setup
+﻿
+﻿github.com/signup 
+
+﻿
+
+Task #3
+
+NodeJS (latest version)
+﻿
+﻿nodejs.org/en/download 
+
+﻿
+﻿
+image.png
+﻿
+
+Visual Studio Code (Office Laptop)
+﻿
+﻿code.visualstudio.com/download 
+
+﻿
+
+Advance  AI IDE ( Personal Laptop) 
+Google Antrigravity -> 
+﻿antigravity.google/ 
+﻿
+Same Notes - 
+﻿3x AI Tester Blueprint | 
+﻿3x AI Tester Blueprint | 
+
+﻿
+
+﻿
+n8n Tutorial -> 
+﻿3x AI Tester Blueprint | 
+﻿
+﻿app.thetestingacademy.com/ai/n8n-tutorial.html 
+
+﻿
+
+Task #4  - Install the
+﻿3x AI Tester Blueprint | n8n in the Local Personal Laptop
+
+﻿
+
+﻿
+AI Foundations
+﻿
+
+23th May 2026
+Book Link to Buy : 
+﻿amzn.to/43qVErM 
+
+﻿
+image.png
+﻿
+Foundation Models
+﻿
+
+🧠 What Changed After 2020 – The Era of Scale
+
+Before 2020, AI models were like smart calculators – good at one thing. After 2020, AI models became like super interns – they can write, read, code, explain, summarize, and even reason.
+
+﻿
+
+﻿
+image.png
+Real-World Example
+Old AI: A spam filter only tells you "spam or not"
+New AI: Can read the email, explain why it is spam, rewrite it professionally, and suggest a reply.
+﻿
+
+Really Implemented - 
+﻿arxiv.org/pdf/1706.03762 
+
+﻿
+
+ basic models were always present 
+
+﻿
+
+Two Major Consequences of Scale
+Capability Explosion
+Models can now perform many tasks well
+New applications became possible (coding, writing, planning, vision)
+Model-as-a-Service Emergence
+Training large models is expensive and centralized
+A few organizations build models
+Everyone else consumes them via APIs
+﻿
+
+➡️ Result: AI application demand increased while entry barriers dropped.
+
+﻿
+
+ language model 
+﻿
+
+🤖 What Is AI Engineering?
+AI Engineering = Building applications on top of existing foundation models.
+
+⚠️ Using powerful pre-built AI brains to solve real problems == AI Engineering.
+
+﻿
+
+You are not training the brain from scratch. 
+
+﻿
+
+You are:
+
+Giving it instructions
+Giving it context. |  what is the background? What are the details, information, explanation 
+Checking its answers
+Connecting it to real systems
+﻿
+
+Why AI Engineering Is Growing Fast
+Powerful models already exist
+APIs make usage simple
+Minimal infrastructure required
+Even non-engineers can build AI apps.
+﻿
+Traditional ML Engineer:
+
+Collects 1M records
+Labels data
+Trains a model
+Tunes hyperparameters
+﻿
+
+AI Engineer:
+
+Chooses GPT / Claude / Gemini
+Writes prompts
+Adds documents via RAG
+Evaluates responses
+Deploys fast
+﻿
+
+This is why AI Engineering feels faster and more creative.
+
+﻿
+
+LLM
+
+GPT 5.5
+Gemini 3.5
+Claude Opus 4.7
+Claude Sonnet 4.6
+﻿
+
+AI Coding Agent. | Coding Tools. | Agentic Coding Tools
+
+Cursor -> Brain ( composer 2.5, Chatp 4.7 Opus)
+Windsurf
+Claude Code
+Codex
+KIRO IDE
+OpenCode
+Command Code
+Antrigravity
+Github Copilot.
+﻿
+
+ChatBots
+
+ChatGPT
+Claude.ai
+Chat.deepseek.com
+﻿
+
+Curation of LLM with HARNESSING
+
+Perplexity. (Curation of results) 
+﻿
+
+﻿
+ there are two types of language modules, everyone, which was 
+
+ Private or proprietary or closed-source large language model 
+Quad 4.7
+Opus Chat this GPT 5.5
+Gemini 3.1
+ Open source models 
+Mistral
+Deepseek
+Qwen, Kimi 2.5, 2.6
+﻿
+
+﻿
+ Open source models are trained automatically on the internet, but all the knowledge is already given to you free of cost. You can use it in your system.
+
+﻿
+﻿huggingface.co/models 
+
+﻿
+
+﻿
+Ollama | LM Studio
+
+These are the applications which can run the open source model on your machines. So your machine configuration is very important if you want to run a local LLM on your system 
+
+﻿
+
+ Local LLM is nothing but an open source model which will run on your system.
+
+﻿
+ I want to run a local LLM on my system, my Windows machine, or my Mac machine 
+
+ you will need a higher RAM, everyone. If you have a lower RAM, less than 8GB, it will not run 
+ please remember, local LLMs are very slow 
+when you run local LLM into your system, your computer will hang, probably switch off also after some time, because the processing power will take a lot of energy 
+﻿
+
+ if you are using your personal laptop, type P in the channel 
+
+ you are using your Office laptop type O in the chat
+
+﻿
+
+﻿
+
+This demo or this installation, which I am going to do today, right now. Please remember, this is only for a personal laptop,  I am not sure if Ollama or LM Studio is allowed in your company. This is a big disclaimer before that. If you don't have a personal laptop, fine. You can see the demo of mine.
+
+﻿
+
+﻿
+Ollama Downalod or LM Studio
+
+﻿
+﻿ollama.com/download 
+﻿
+﻿lmstudio.ai/download 
+﻿
+
+﻿
+image.png
+Please remember, most of the companies nowadays, I don't know if your company has allowed the use of Ollama or LM Studio or not, so it is better you should ask for permission.
+
+64 GB RAM -> 8B parameter
+
+32GB RAM -> 4b parameter Model
+
+16 GB ram -> 3b
+
+8GB ram -> 1b, 2b ,3b(hang a alot)
+
+4GB ram -> that my friend you need to buy a new laptop :)
+
+﻿
+image.png
+﻿
+ 
+Visual Studio Code
+
+﻿
+﻿code.visualstudio.com/download 
+
+﻿
+
+ Antigravity IDE also 
+
+﻿
+﻿antigravity.google/download 
+
+﻿
+image.png
+﻿
+
+Rich : which person you can use cursor or windsurf also
+
+﻿
+﻿
+
+From Language Models to Large Language Models (LLMs)
+
+﻿
+
+What Is a Language Model?
+
+A language model is like autocomplete on steroids.
+
+cat will sit on _ 
+﻿
+
+GPT 1,2 ->   GPT-1 and 2 actually were trained on the conversation on Reddit 
+
+ just to give you the idea, Claude actually was trained on Stack Overflow 
+
+﻿
+
+A language model:
+Learns statistical patterns of language.
+Predicts the next token given context
+﻿
+
+What is the Context? 
+Information
+Reference, Objective.
+Some information what we are discussing
+background information
+﻿
+
+"My favorite color is ___"  -
+
+. blue
+
+﻿
+
+﻿
+Tokens (Very Important)
+Token = basic unit (word, sub-word, or character)
+Models don’t see words, they see tokens.
+﻿
+
+Why tokens?
+
+Capture meaning better than characters
+Smaller vocabulary than words
+Handle unknown/new words.
+﻿
+
+Give me the source code for the hello world in javascript.
+hello world in javascript.
+﻿
+
+ as an AI engineer, your task is to basically create or ask questions in a such a way where you will have the optimized version of tokens used. Your prompts or the instructions that you are going to give should be very precise, should be filled with proper context, and should be properly given based on token economics 
+
+﻿
+
+Prompt engineering
+
+Optimizing our instructions in a proper way so that an LLM or large language model can give you everything that he has or the exact output that you are looking for. It is called prompt engineering .
+
+﻿
+
+Paper - 
+﻿arxiv.org/html/1706.03762v7 
+
+Attention is all you need ( ~2014)
+
+﻿
+
+Give me the source code for the hello world in javascript.
+
+﻿
+﻿
+﻿arena.ai/leaderboard 
+
+﻿
+
+﻿
+24th May 2026
+Recap - LAST Tues - Skills.md
+﻿
+
+Prompting Engineering ( +RICE POT Framework)  
+What is Prompting?
+Types of Prompts
+Advanced Prompting
+QA-Specific Frameworks
+Write your first QA-style prompt, Chain-of-Thought
+Prompt frameworks: STAR, CLEAR, CRISP
+Context creation via Templates (.md files)
+RICE POT Framework (QA)
+What is Prompt Engineering and why we need to learn it
+Steps to follow for Effective Prompt Engineering
+Role-based prompting for QA, Zero Shot vs Precise Prompting
+﻿
+ Why do we need prompting ?
+
+ he needs prompting so that we can get everything from the LLM or a desired 
+﻿
+
+Better Mechanism to Ask from the LLM
+﻿
+
+Ask  -> Tell 
+
+Ask -> Slave
+
+Tell -> Owner 
+
+﻿
+Ask - you will get ony 20% of things LLM
+
+Tell -  80% LLM ->  you will never ask from the LLM. You will always tell the LLM 
+
+﻿
+
+LLM - (100%)
+
+Prompt Eng
+RAG
+Fine tuning 
+﻿
+Prompting refers to the practice of providing specific instructions or input to an artificial intelligence (AI) model to obtain desired responses. 
+In the context of AI and language models like GPT-5, prompting involves crafting queries or statements that guide the model to generate useful and relevant outputs.
+﻿
+
+Prompt Engineering is the practice of designing and refining inputs (prompts) to effectively communicate with Large Language Models (LLMs) to achieve desired outputs.
+
+﻿
+image.png
+﻿
+image.png
+﻿
+
+﻿
+﻿learnprompting.org/courses/chatgpt-for-everyone 
+Core Principles
+﻿
+
+1. Be Specific
+❌ Bad: "Write test cases for login"
+
+✅ Good: "Write 5 functional test cases for email/password login, covering valid login, invalid email, invalid password, empty fields, and SQL injection attempt. Use the Proper JIRA format: Test ID, Description, Steps, Expected Result."
+
+﻿
+
+2. Provide Context (pdf,csv,json,text).
+❌ Bad: "Test the API"
+
+✅ Good: "Given this API endpoint documentation: [paste docs], write test cases covering happy path, error scenarios, and edge cases."
+
+﻿
+
+3. Define Output Format
+❌ Bad: "Generate bug report"
+
+✅ Good: "Generate a bug report using JIRA format: Title, Environment, Steps to Reproduce, Expected Result, Actual Result, Severity, Attachments."
+
+﻿
+
+4. Set Constraints
+❌ Bad: "Help me test"
+
+✅ Good: "Using ONLY the PRD provided, generate test cases. Do NOT assume any features not mentioned. If information is missing, state 'Not specified in PRD'."
+
+﻿
+
+﻿
+Steps to Follow for Effective Prompt Engineering
+│ Define the Goal │
+│ Gather Context │
+│ Choose Prompting Strategy │
+│ Structure the Prompt │
+│ Add Constraints │
+│ Test and Iterate │
+│ Document and Reuse │
+﻿
+
+﻿
+Create testcase for app.vwo.com
+Step 1: Define the Goal
+Ask yourself:
+
+What exactly do I need?
+What will I do with the output?
+What does success look like?
+❌ Vague: "Help me with testing"
+✅ Clear: "Generate 10 test cases for login validation"
+
+Plan -> Generate  (AI) - RULE 1-  (95% Plan , 5% Action)
+Objective - I have a website which is app.vwo.com. My objective is to basically write the 10 test cases related to valid and invalid scenarios. This is also called functional test cases in the Jira format. In the Jira format, make sure that we include all the columns which are required. 
+
+﻿
+
+Step 2: Gather Context
+Collect all relevant information:
+
+ PRD / Requirements document
+ API documentation
+ Screenshots / UI mockups
+ Error logs
+ Previous test cases
+ Constraints / Limitations
+ JIRA ID, Stories , Epic, BRD, Conflueces, Wireframes, figma, Artch. Miro..
+Rule: More context = Better output
+
+﻿
+
+Step 3: Choose Prompting Strategy
+Zero-Shot ->  don't give any example,  it is mostly used when you want to do a very simple task like summarize, fix grammar, write an email 
+
+﻿
+image.png
+﻿
+
+Few Shot :   basically, means you will give one or two examples to AI so that it understands what you want 
+
+﻿
+image.png
+﻿
+
+Precise Shot
+
+okay, so here is exactly one of the test cases which I want to give you. The first test case will be verified with the varied credentials: if I enter a username or email ID or password and click on the submit button, I should get an error. This is one of the bugs which we have basically got, and for that we need a test case in proper format where proper Jira IDs will be there
+
+Chain of Thought 
+
+﻿
+image.png
+﻿
+image.png
+﻿
+
+Test Case Template - 
+﻿docs.google.com/spreadsheets/d/1EH1UJ9Qezgx_aZ0xim3KcVJUCEeR7A-7/edit?usp=sharing&ouid=104755920778477387077&rtpof=true&sd=true 
+
+﻿
+
+Step 4: Structure the Prompt
+ More than 27+ prompt framework which you can use.
+
+﻿
+
+Use a framework (RICE POT recommended):
+
+﻿
+
+﻿
+image.png
+﻿
+
+﻿
+image.png
+Role -  Act as QA functional tester with 15 years of experience who is an expert in functional testing,  the task is to write the test cases for a given objective
+
+Objective - I have a website which is app.vwo.com. My objective is to basically write the 10 test cases related to valid and invalid scenarios. This is also called functional test cases in the Jira format. In the Jira format, make sure that we include all the columns which are required. 
+
+﻿
+
+I - Instructions
+
+ the complete test cases for functional as well as non-functional, both of them, are okay for the required product requirement document, which is PRD, which is attached to you, In the Jira format, make sure that we include all the columns which are required. 
+
+[Critical] -  Give me the response in a CSV format with the proper columns mentioned 
+
+[Don't] -  Do not invent any feature ID or any kind of features part from the PRD 
+[Don't] - DO NOT invent features, APIs, error codes, UI elements, or behavior.
+
+[Don't] - DO NOT assume default or "typical" system behavior.
+
+If information is missing or unclear, respond with: "Insufficient information to determine."
+
+Every assertion must be traceable to provided input.
+
+If a detail is inferred, label it explicitly as: "Inference (low confidence)".
+
+[Critical] Output must be deterministic and proper output format
+
+Constraint. : PRD document attachment
+
+Output Format , should include all the these column., csv format
+Scenario TID	Test Data	TestCase Description	PreCondition	TestSteps	Expected Result	Actual Result	Steps to Execute	Expected Result	Actual Result	Status	Executed QA Name 	Misc (Comments)	Priority	Is Automated																
+
+
+If you think that there is a missing requirement or a requirement that you do not understand, ask me the questions related to that. 
+
+﻿
+
+Example : 
+
+Title
+
+Steps to Producte
+
+Expected
+
+Actual Resul..
+
+Priority
+
+﻿
+
+C — Context 
+
+are already provided with the product requirement document, screenshot of the applications, and other documents attached
+
+﻿
+
+T — Tone 
+
+Technical, precisely, enterprise-grade, code-one.
+
+﻿
+
+﻿
+Objective :  We have to generate a Selenium automation framework from scratch for the salesforce.com where you need to add a two-page object model, proper production ready. 
+
+﻿
+
+Prompt : 
+
+Role : 
+
+ You are a QA automation tester with 15 years of experience. You have a very good understanding of IT, CRM projects like 
+﻿salesforce.com. : You need to create a framework with Selenium, Java, Maven, TestNG, and it should be enterprise-level framework that we need to create. 
+
+I - Instructions
+
+Generate a Complete Selenium with Java automation script following the standard of enterprise level standards.
+Automate and verify the results of the login page login.salesforce.com/?locale=in, ensure that UI is thoroughly tested with valid and invalid testcases.
+[Critical] - Apply the TestNG annotations, @Test, @BeforeTest and others and and necessary setup/teardown logic.
+[Critical] Implement robust exception handling within both Page Object model and test scripts using structured try–catch blocks or explicit exception signatures.
+[Mandatory] Use Page Object Model with PageFactory, including @FindBy, constructor initialization, and reusable action methods.
+[Mandatory] - It is important that you use only the xpath not the css selectors.
+[Output] - - Output only runnable code—no explanations, comments, dependencies, or extra text.
+[Don't] - Don't use the css selectors, ID, name and others things.
+[Don't] - Don't add comments, Thread.sleep and other bad coding practice.
+[Generate] - Generate the 2 scritps only with the valid and invalid testcases of the login page.
+[Don't] Thread.sleep() anywhere; rely on WebDriverWait or implicit waits.
+Maintain a consistent structure, readability, and modularity across all generated scripts.
+
+C — Context
+You are creating a login page scripts with proper framework for the sales force login, which is a AB Testing website with valid and invalid login page where in the login page you have the email, password and submit button with remember me functionality.
+
+E — Example
+Example structure for PageFactory:
+
+public class LoginPage {
+ @FindBy(xpath = "//input[@id='username']") WebElement username;
+ @FindBy(xpath = "//input[@id='password']") WebElement password;
+ @FindBy(xpath = "//input[@id='Login']") WebElement loginButton;
+
+public LoginPage(WebDriver driver) { PageFactory.initElements(driver, this); }
+
+public void doLogin(String user, String pass) { 
+    username.sendKeys(user); 
+    password.sendKeys(pass); 
+    loginButton.click(); 
+}
+
+}
+
+P — PARAMETERS
+with production level automation script expert with pin point accuracy and almost zero bad coding practice.
+
+O — Output
+Provide only:
+1 Page Object file
+2 TestNG test scripts
+Maven project
+No explanations or additional content. 
+
+T — Tone
+Technical, precisly, enterprise-grade, code-one.
+
+﻿
+
+Please make the entire step by step process and ask me what you are doing and explain to me also what you are doing step by step. Make sure that you first plan everything and show me what exactly you are going to create. Then only you are going to create afterwards step by step.
+
+﻿
+
+﻿
+Quick Checklist for Good Prompt
+ Goal is clearly defined
+ All relevant context is included
+ Appropriate strategy chosen
+ Prompt is well-structured
+ Anti-hallucination constraints added
+ Output format specified
+ Task instruction is specific
+﻿
+
+﻿
+Common Mistakes to Avoid
+
+﻿
+image.png
+﻿
+Prompt Frameworks: STAR, CLEAR, CRISP
+﻿
+
+CRAP / CRISP Framework
+ C — Context
+ R — Role
+ A — Action
+
+ I - Instructions
+ P — Parameters (optional)
+
+﻿
+﻿chatgpt.com/share/692f98ea-86d8-8009-905a-e7f2ae5d8e9a 
+
+﻿
+﻿claude.ai/share/5c25bfd8-30d8-400e-a691-3edd01483ea1 
+
+﻿
+﻿www.kimi.com/share/19c17db0-3082-80f3-8000-0000c579c4cb 
+
+﻿
+
+﻿
+2. RACE
+R — Role
+ A — Action
+ C — Context
+ E — Expectation
+
+﻿
+
+R — Role A — Action C — Context E — Expectation
+Task - Bug Report for the invalid login at the app.vwo.com 
+
+﻿
+﻿chatgpt.com/share/69b4e6b0-c704-8001-adce-cad61b921623 
+
+﻿
+ 3. COAST
+
+C — Context
+ O — Objective
+ A — Action
+ S — Style
+ T — Tone
+
+4. CLASSIC “Role Model Prompting”
+“You are X, behave like Y, produce Z.”
+ Feels like assigning an actor their script 🎭.
+
+﻿
+image.png
+﻿
+
+﻿
+
+RICE POT
+Checklist: Is Your Prompt Complete?
+ Role defined
+ Context provided
+ Task is specific and quantified
+ Constraints prevent hallucinations,  conditions 
+ Output format specified
+ Terminology defined if needed
+﻿
+﻿chatgpt.com/share/697efcef-7c50-8009-b5e6-db0a4fab6f82 
+
+﻿
+
+﻿
+Template 1: Basic Test Case Generation ( RTCFR) 
+ROLE - You are a Senior QA Engineer.
+
+TASK - Generate [NUMBER] test cases for [FEATURE].
+
+ number is your educated guess 
+
+CONSTRAINTS
+
+Use ONLY the provided requirements
+Do NOT assume undocumented behavior
+If information is missing, state "Not specified"
+﻿
+
+FORMAT:
+| Test ID | Description | Pre-conditions | Steps | Expected Result | Priority |
+
+﻿
+
+REQUIREMENTS:
+[PASTE REQUIREMENTS HERE]
+
+﻿
+
+﻿
+﻿
+﻿markdownlivepreview.com/ 
+
+ Format which looks like a normal text file with formatting 
+
+﻿
+
+Template 3: API Test Case Generation
+ROLE: You are an API Testing Specialist.
+
+TASK: Generate test cases for this API endpoint.
+
+COVERAGE:
+- Happy path (valid requests) | functionality
+- Invalid inputs (validation errors)
+- Authentication/Authorization
+- Error handling
+- Boundary conditions
+
+CONSTRAINTS:
+- Use ONLY the API documentation provided
+- Include exact status codes from docs
+- Do NOT assume undocumented behavior
+
+FORMAT:
+| Test ID | Endpoint | Method | Request Body | Expected Status | Expected Response |
+
+API DOCUMENTATION:
+<<<
+[PASTE API DOCS HERE] - 
+﻿documenter.getpostman.com/view/3967924/RW1dExDv
+>>>
+
+﻿
+Template 4: Negative Test Cases Only
+ROLE: You are a QA Engineer focused on negative testing.
+
+TASK: Generate negative test cases for [FEATURE].
+
+FOCUS AREAS:
+- Invalid inputs
+- Boundary violations
+- Missing required fields
+- Unauthorized access
+- Malformed data
+
+CONSTRAINTS:
+- Do NOT include happy path scenarios
+- Each test must validate error handling
+- Include expected error message if documented
+
+FORMAT:
+| Test ID | Invalid Scenario | Input | Expected Error |
+
+FEATURE REQUIREMENTS:
+[PASTE REQUIREMENTS] |. does not matter what you have here. You can mention Jira ID, SRS, BRD, PRD, Sprint Ticket, Jira ID, Test
+
+Template 5: Security Test Cases
+ROLE: You are a Security QA Specialist.
+
+TASK: Generate security-focused test cases for [FEATURE].
+
+SECURITY AREAS:
+- Input validation (SQL injection, XSS)
+- Authentication bypass attempts
+- Authorization checks
+- Session management
+- Data exposure
+
+CONSTRAINTS:
+- Focus on OWASP Top 10 where applicable
+- Do NOT include actual malicious payloads
+- Include expected secure behavior
+
+FORMAT:
+| Test ID | Security Risk | Attack Vector | Expected Secure Behavior |
+
+FEATURE:
+[PASTE FEATURE DESCRIPTION]
+
+﻿
+RTCFR AND RICE POT. 
+Template 6: Regression Test Suite
+ROLE: You are a QA Lead planning regression testing.
+
+TASK: Generate a regression test suite for [MODULE].
+
+PRIORITIES:
+1. Critical business flows
+2. Previously failed areas
+3. High-risk integrations
+4. Core functionality
+
+CONSTRAINTS:
+- Focus on end-to-end scenarios
+- Include data setup requirements
+- Estimate execution time per test
+
+FORMAT:
+| Test ID | Scenario | Data Setup | Steps | Est. Time | Priority |
+
+MODULE DOCUMENTATION:
+[PASTE DOCS]
+
+﻿
+Anti-Hallucination Reminder
+⚠️ IMPORTANT: When generating bug reports:
+
+✅ DO:
+- Use only provided evidence
+- Mark unknowns explicitly
+- Request clarification for gaps
+
+❌ DO NOT:
+- Assume root cause
+- Invent error messages
+- Guess system behavior
+- Fill gaps with assumptions
+
+﻿
+﻿
